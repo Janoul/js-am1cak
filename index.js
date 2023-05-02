@@ -20,5 +20,5 @@ form.addEventListener('submit', (event) => {
 
   renderizaPokemon(input.value);
   console.log(input.value);
-  input.value = ""
+  input.value = "";
 })
